@@ -1,0 +1,7 @@
+puts("apply the arithmatic operation")
+puts(20+20)
+puts(30-10)
+puts(12*10)
+puts(14%3)
+puts("apply the exponenetial")
+puts(10 ** 10)

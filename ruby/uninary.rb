@@ -1,0 +1,5 @@
+puts("apply unary operator")
+puts(~5)
+puts(~-5)
+puts(true)
+puts(!true)
